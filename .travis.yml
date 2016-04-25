@@ -1,4 +1,4 @@
 language: java
 notifications:
-	email:
-		- lorr@kea.dk
+  email:
+     - lorr@kea.dk
